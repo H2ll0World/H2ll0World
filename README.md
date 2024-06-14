@@ -8,14 +8,14 @@
 <!-- ![GitHub followers](https://img.shields.io/github/followers/H2ll0World?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/H2ll0World?style=social) -->
 
-I'm a passionate software developer from Seoul, South Korea. Here’s a little more about me:
-
+<!-- I'm a passionate software developer from Seoul, South Korea. Here’s a little more about me: 
+ 
 ## 🌟 GitHub Contributions
 
-![H2ll0World's GitHub Contributions](https://contrib.rocks/image?repo=H2ll0World/H2ll0World)
+![H2ll0World's GitHub Contributions](https://contrib.rocks/image?repo=H2ll0World/H2ll0World) -->
 
 <!-- 혹은 다음처럼 직접 GitHub의 기여 그래프를 불러올 수도 있습니다. -->
-![GitHub Contributions](https://github.com/H2ll0World/H2ll0World/blob/main/contributions.svg)
+<!-- ![GitHub Contributions](https://github.com/H2ll0World/H2ll0World/blob/main/contributions.svg) -->
 
 
 <!--
