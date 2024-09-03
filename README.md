@@ -10,8 +10,8 @@
 <!--   green snake -->
 ![H2ll0World's github activity graph](https://raw.githubusercontent.com/H2ll0World/H2ll0World/output/github-contribution-grid-snake.svg)
 
-![GitHub followers](https://img.shields.io/github/followers/H2ll0World?style=social)
-![GitHub stars](https://img.shields.io/github/stars/H2ll0World?style=social)
+<!-- ![GitHub followers](https://img.shields.io/github/followers/H2ll0World?style=social)
+![GitHub stars](https://img.shields.io/github/stars/H2ll0World?style=social) -->
 
 <!-- I'm a passionate software developer from Seoul, South Korea. Here’s a little more about me: 
  
